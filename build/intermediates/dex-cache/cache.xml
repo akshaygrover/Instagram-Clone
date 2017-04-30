@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/akshaygrover/AndroidStudioProjects/InstaClone/app/libs/parse-android-1.14.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b35bb849e7bda4497fe6dfce4bd9f332087c2e3b">
+        <dex dex="/Users/akshaygrover/AndroidStudioProjects/InstaClone/app/build/intermediates/transforms/dex/debug/folders/1000/2/parse-android-1.14.1_bd08b9e004ebc1ffd30928905bbb74f80c416f0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshaygrover/AndroidStudioProjects/InstaClone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/akshaygrover/AndroidStudioProjects/InstaClone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5713d7028213cdff79fc3b469c755407fd82e034/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshaygrover/AndroidStudioProjects/InstaClone/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f77228b8a8edb3ae6710ca08df7e9123072bd1ac">
+        <dex dex="/Users/akshaygrover/AndroidStudioProjects/InstaClone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b97d674ef3fef9b5a1b51ce56f6b61f73881f8e4/classes.dex" />
+    </item>
+
+</items>
